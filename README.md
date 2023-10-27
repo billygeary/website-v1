@@ -1,2 +1,2 @@
-# website-v1
+# billygeary.github.io
 personal website

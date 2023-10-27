@@ -1,0 +1,29 @@
+  [[main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[main]]
+  name = "Research"
+  weight = 200
+  identifier = "research"
+  url = "/research/"
+  
+  [[main]]
+  name = "Media" 
+  weight = 300
+  identifier = "media"
+  url = "/media/"
+  
+  [[main]]
+  name = "Publications"
+  weight = 400
+  identifier = "publications"
+  url = "/publications/"  
+  
+  [[main]]
+  name = "Contact"
+  weight = 500
+  identifier = "contact"
+  url = "/contact/"
