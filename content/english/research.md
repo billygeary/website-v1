@@ -1,5 +1,5 @@
 ---
-author: William Geary
+author: Billy Geary
 date: "2023-09-25"
 description: Projects page
 title: Projects

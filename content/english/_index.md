@@ -1,5 +1,5 @@
 ---
-author: William Geary
+author: Billy Geary
 title: Home
 ---
 
