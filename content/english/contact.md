@@ -15,7 +15,9 @@ billy.geary\[at\]unimelb.edu.au
 
 ### **Current Position**
 
-**Lecturer in Quantitative Ecology & Biodiversity Conservation**  
+**Lecturer in Quantitative Ecology & Biodiversity Conservation**
+**Quantitative and Applied Ecology Group (QAEco)**
+**Melbourne Biodiversity Institute**
 **School of Agriculture, Food and Ecosystem Sciences**   
 The University of Melbourne   
 Parkville, Melbourne | Victoria | Australia   
