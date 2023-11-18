@@ -72,7 +72,7 @@ url = "https://www.twitter.com/billy_geary"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "Email"
-url = "mailto:william.geary@unimelb.edu.au"
+url = "mailto:billy.geary@unimelb.edu.au"
 
 [[socialIcons]]
 icon = "fab fa-orcid"
