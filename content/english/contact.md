@@ -9,7 +9,7 @@ My current details are below. Please feel free to get in touch!
 
 ### **Email**
 
-billy.geary\[at\]unimelb.edu.au
+billy.geary\[[at\]]unimelb.edu.au
 
 [Department Website](http://findanexpert.unimelb.edu.au/profile/1055305-billy-geary)
 

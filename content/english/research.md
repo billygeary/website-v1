@@ -5,7 +5,7 @@ description: Projects page
 title: Projects
 ---
 
-I have a broad range of research interests, broadly focused on using applied and quantitative appraoches for better managing and conserving biodiversity in a time of global change. This has spanned topics including fire ecology, spatial conservation planning and prioritisation, ecological forecasting, invasive species management and ecosystem modelling. While I am always open to new avenues of research, my current research brings together two related threads:
+I have a broad range of research interests, broadly focused on using applied and quantitative approaches for better managing and conserving biodiversity in a time of global change. This has spanned topics including fire ecology, spatial conservation planning and prioritisation, ecological forecasting, invasive species management and ecosystem modelling. While I am always open to new avenues of research, my current research brings together two related threads:
 
 #### **1. Impacts and management of compounding threats and disturbances**
 
