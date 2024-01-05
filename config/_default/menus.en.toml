@@ -11,19 +11,25 @@
   url = "/research/"
   
   [[main]]
-  name = "Media" 
+  name = "Opportunities"
   weight = 300
+  identifier = "opportunities"
+  url = "/opportunities/"
+  
+  [[main]]
+  name = "Media" 
+  weight = 400
   identifier = "media"
   url = "/media/"
   
   [[main]]
   name = "Publications"
-  weight = 400
+  weight = 500
   identifier = "publications"
   url = "/publications/"  
   
   [[main]]
   name = "Contact"
-  weight = 500
+  weight = 600
   identifier = "contact"
   url = "/contact/"
