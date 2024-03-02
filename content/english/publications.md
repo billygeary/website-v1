@@ -9,6 +9,11 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 [**Send me an email**](mailto:billy.geary@unimelb.edu.au) for pdfs of any of my papers.
 
+
+#### **2024**
+
+27\. Doherty, T.S., Macdonald, K.J., Nimmo, D.G., Santos, J.L. & **Geary, W.L.** (Accepted). 'Shifting fire regimes cause continent-wide transformation of threatened species habitat' *Proceedings of the National Academy of Sciences*
+
 #### **2023**
 
 26\. Gould, E., et al. (incl. **Geary, W.L.**). 2023. ['Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology'](https://ecoevorxiv.org/repository/view/6000/). *EcoEvoRxiv*
