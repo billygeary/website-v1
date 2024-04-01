@@ -17,7 +17,7 @@ Key papers:
 
 -   **Geary, W.L.**, Nimmo, D.G., Doherty, T.S., Ritchie, E.G. & Tulloch, A.I.T. 2019 ['Threat Webs: re-framing the co-occurrence and interactions of threats to biodiversity.'](https://doi.org/10.1111/1365-2664.13427) *Journal of Applied Ecology*
 
-![image](/images/191019_NORTHERNTERRITORY.jpg)
+![image-medium](/images/191019_NORTHERNTERRITORY.jpg)
 
 #### **2. Development and application of quantitative decision-support approaches and tools**
 

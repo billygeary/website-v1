@@ -12,7 +12,9 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2024**
 
-27\. Doherty, T.S., Macdonald, K.J., Nimmo, D.G., Santos, J.L. & **Geary, W.L.** (Accepted). 'Shifting fire regimes cause continent-wide transformation of threatened species habitat' *Proceedings of the National Academy of Sciences*
+28\. Linley, G., **Geary, W.L.**, Jolly, C.J., Spencer, E.E., Ashman K., Michael, D.R., Westaway, D.M. & Nimmo D.G. 2024. 'Wombat burrows are hotspots for small vertebrates in a landscape subject to gigafire' *Journal of Mammalogy*
+
+27\. Doherty, T.S., Macdonald, K.J., Nimmo, D.G., Santos, J.L. & **Geary, W.L.**. 2024. 'Shifting fire regimes cause continent-wide transformation of threatened species habitat' *Proceedings of the National Academy of Sciences*
 
 #### **2023**
 
