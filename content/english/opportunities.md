@@ -11,9 +11,9 @@ Potential research projects are outlined below. My research page also details my
 
 If you are interested in working together, please [**get in touch via email**](mailto:billy.geary@unimelb.edu.au) outlining:
 -   Why you want to pursue further study and your relevant experience.
--   Your area of research interest and how it aligns with my research, including some rough project ideas. 
+-   Your area of research interest and how it aligns with my research.
 
-Please also check the University of Melbourne's information on [**Masters programs**](https://study.unimelb.edu.au/study-with-us/graduate-courses/environment) and [**Graduate Research**](https://study.unimelb.edu.au/how-to-apply/graduate-research) to ensure you are able to study through the University. 
+Please also check the University of Melbourne & School of Agriculture, Food & Ecosystem Science's [**Website**](https://safes.unimelb.edu.au/study) to ensure you are able to study through the University & for information on financial support. 
 
 ### Currently Available Projects
 
