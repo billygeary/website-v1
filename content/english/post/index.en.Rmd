@@ -1,9 +1,12 @@
 ---
 title: "Test of some analysis help material"
 author: "Billy Geary"
-date: 2024-04-03
-categories: ["R"]
-tags: ["R Markdown", "plot", "regression"]
+date: "2024-04-03"
+categories: R
+tags:
+- R Markdown
+- plot
+- regression
 ---
 
 ```{r setup, include=FALSE}
