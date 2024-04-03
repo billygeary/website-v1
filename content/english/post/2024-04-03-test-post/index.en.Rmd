@@ -11,9 +11,19 @@ categories: []
 tags: []
 ---
 
+# Some words
+
 Hello 
+
+# Some analysis
 
 ```{r}
 a = 1:10
 summary(a)
 ```
+
+
+# Some more stuff
+## and a subheading
+
+yes some more things
