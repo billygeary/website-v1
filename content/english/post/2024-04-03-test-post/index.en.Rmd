@@ -2,6 +2,10 @@
 title: Test post
 author: Billy Geary
 date: '2024-04-03'
+output:
+  blogdown::html_page:
+    highlight: tango
+    toc: true
 slug: []
 categories: []
 tags: []
