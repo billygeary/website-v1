@@ -5,6 +5,8 @@ description: Media page
 title: Media
 ---
 
+I have appeared on national TV (e.g. ABC News Breakfast), radio (e.g. ABC Radio) and online media (e.g. The Guardian, The Conversation) to discuss my research. 
+
 #### **Recorded Talks**
 See below for some recorded presentations of my research. 
 
@@ -13,6 +15,8 @@ See below for some recorded presentations of my research.
 #### **The Conversation**
 
 I have authored multiple articles for The Conversation, including:
+
+- [Gone in a puff of smoke: 52,000 sq km of ‘long unburnt’ Australian habitat has vanished in 40 years](https://theconversation.com/gone-in-a-puff-of-smoke-52-000-sq-km-of-long-unburnt-australian-habitat-has-vanished-in-40-years-226810)
 
 -   [Species don’t live in isolation: what changing threats to 4 marsupials tell us about the future](https://theconversation.com/species-dont-live-in-isolation-what-changing-threats-to-4-marsupials-tell-us-about-the-future-200990)
 
