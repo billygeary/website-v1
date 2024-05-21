@@ -11,8 +11,6 @@ I have a broad range of research interests, broadly focused on using applied and
 
 Biodiversity is under increasing pressure from a diverse range of threats and pressures which will only worsen under climate change. Our research is motivated by identifying how species and ecological communities are shaped by interacting threats, disturbances (e.g. fire, drought) and ecological processes (e.g. predation, herbivory), and how this knowledge can be used to improve conservation outcomes for species and ecosystems. We have projects at the local-sale (e.g. in south-west and south-eastern Australia) and the continental-scale exploring this topic.
 
-<img src="/images/191019_NORTHERNTERRITORY.jpg" alt="image-medium" style="width:300px; height:auto; float:left; margin-right:10px;">
-
 Key papers:
 
 -   **Geary, W. L.**, Tulloch, A. I. T., Ritchie, E. G., Doherty, T. S., Nimmo, D. G., Maxwell, M. A., & Wayne, A. F. (2023). ['Identifying historical and future global change drivers that place species recovery at risk'](https://doi.org/10.1111/gcb.16661). *Global Change Biology*
