@@ -7,7 +7,7 @@ title: Opportunities
 
 I am always keen to hear from interested and passionate people about potential student (Masters or PhD) projects whos research interests align with my own. 
 
-Some potential research projects are outlined below, but I am very happy to work on other ideas in my areas of research. Generally, my projects will be broadly focused on using applied and quantitative methods for better managing and conserving biodiversity at various scales, using a range of field and modelling-based approaches. I work closely with land managers and policy specialists for my research, so my research also typically has an applied focus. I am always open to developing projects with potential students that fall within my research area. 
+Some potential research areas are outlined below, but I am very happy to work on other ideas in my areas of research. Generally, my projects will be broadly focused on using applied and quantitative methods for better managing and conserving biodiversity at various scales, using a range of field and modelling-based approaches. I work closely with land managers and policy specialists for my research, so my research also typically has an applied focus. I am always open to developing projects with potential students that fall within my research area. 
 
 If you are interested in working together, please [**get in touch via email**](mailto:billy.geary@unimelb.edu.au) outlining:
 -   Why you want to pursue further study and your relevant experience.
@@ -17,7 +17,7 @@ Please also check the University of Melbourne & School of Agriculture, Food & Ec
 
 ### Potential Projects
 
-#### 1)	Modelling biodiversity responses to bushfire in East Gippsland, Victoria
+#### 1)	Modelling biodiversity responses to bushfires
 
 The Black Summer bushfires in East Gippsland were unprecedented in their scale and severity. Rapid post-fire assessments suggested that the biodiversity impacts of the megafires were expected to be very large for a range of species, such as the Long-footed Potoroo and the Southern Brown Bandicoot. Validation of these predictions using pre- and post-fire monitoring data is therefore essential, so that management efforts and responses to future large fires can be better targeted. This project would use a large camera trapping dataset (>900 sites) from East Gippsland, Victoria collected both before and after the Black Summer bushfires to understand the impacts of the fires, understand factors that shape fauna recovery, identify important areas for conservation and inform ongoing fire and forest management in East Gippsland. Skills that could be developed include occupancy modelling, species distribution modelling and spatial analysis.  
 

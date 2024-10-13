@@ -11,7 +11,12 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 
 #### **2024**
-29.\ Westaway, D.M., Jolly, C.J., Watson, D.W., Jessop, T.S., Michael, D.R., Linley, G.D, Aristova, A., Holmes, B., Price, J.N., Ritchie, E.G., Geary, W.L., Buchan, A., Loeffler, E. & Nimmo, D.G. 2024. Fragments maintain similar herpetofauna and small mammal richness and diversity to continuous habitat, but community composition and traits differ. *Landscape Ecology*
+
+31\. Bruce, T. et al. (incl. **Geary, W.L.**). (In Press). 'Large-scale and long-term wildlife monitoring using camera traps: a continental synthesis.' *Biological Reviews*
+
+30\. Linley, G., Jolly, C., Wooster, E., Spencer, E., Cowan, M., **Geary, W.**, de Laive, A., Michael, D., Ritchie, E. & Nimmo, D. (In Press). 'Widespread resilience of animal species, functional diversity, and predator-prey networks to an unprecedented gigafire.' *Journal of Applied Ecology*
+
+29\. Westaway, D.M., Jolly, C.J., Watson, D.W., Jessop, T.S., Michael, D.R., Linley, G.D, Aristova, A., Holmes, B., Price, J.N., Ritchie, E.G., Geary, W.L., Buchan, A., Loeffler, E. & Nimmo, D.G. 2024. Fragments maintain similar herpetofauna and small mammal richness and diversity to continuous habitat, but community composition and traits differ. *Landscape Ecology*
 
 28\. Linley, G., **Geary, W.L.**, Jolly, C.J., Spencer, E.E., Ashman K., Michael, D.R., Westaway, D.M. & Nimmo D.G. 2024. ['Wombat burrows are hotspots for small vertebrates in a landscape subject to gigafire'](https://doi.org/10.1093/jmammal/gyae034) *Journal of Mammalogy*
 
