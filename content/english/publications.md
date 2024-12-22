@@ -12,11 +12,13 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2024**
 
+32\. **Geary, W.L.**, Nimmo, D.G., Doherty, T.S., Tulloch, A.I.T., Murray, A., Bluff, L., Perri, M. & Ritchie, E.G. 2024. ['Forecasting patterns of shifting biodiversity refugesin an increasingly flammable world.'](https://ecoevorxiv.org/repository/view/8271/) *EcoEvoRxiv* [Pre-print]
+
 31\. Bruce, T. et al. (incl. **Geary, W.L.**). (In Press). 'Large-scale and long-term wildlife monitoring using camera traps: a continental synthesis.' *Biological Reviews*
 
-30\. Linley, G., Jolly, C., Wooster, E., Spencer, E., Cowan, M., **Geary, W.**, de Laive, A., Michael, D., Ritchie, E. & Nimmo, D. (In Press). 'Widespread resilience of animal species, functional diversity, and predator-prey networks to an unprecedented gigafire.' *Journal of Applied Ecology*
+30\. Linley, G., Jolly, C., Wooster, E., Spencer, E., Cowan, M., **Geary, W.**, de Laive, A., Michael, D., Ritchie, E. & Nimmo, D. 2024. ['Widespread resilience of animal species, functional diversity, and predator-prey networks to an unprecedented gigafire.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14815) *Journal of Applied Ecology*
 
-29\. Westaway, D.M., Jolly, C.J., Watson, D.W., Jessop, T.S., Michael, D.R., Linley, G.D, Aristova, A., Holmes, B., Price, J.N., Ritchie, E.G., Geary, W.L., Buchan, A., Loeffler, E. & Nimmo, D.G. 2024. Fragments maintain similar herpetofauna and small mammal richness and diversity to continuous habitat, but community composition and traits differ. *Landscape Ecology*
+29\. Westaway, D.M., Jolly, C.J., Watson, D.W., Jessop, T.S., Michael, D.R., Linley, G.D, Aristova, A., Holmes, B., Price, J.N., Ritchie, E.G., **Geary, W.L.**, Buchan, A., Loeffler, E. & Nimmo, D.G. 2024. ['Fragments maintain similar herpetofauna and small mammal richness and diversity to continuous habitat, but community composition and traits differ'](https://link.springer.com/article/10.1007/s10980-024-01927-8). *Landscape Ecology*
 
 28\. Linley, G., **Geary, W.L.**, Jolly, C.J., Spencer, E.E., Ashman K., Michael, D.R., Westaway, D.M. & Nimmo D.G. 2024. ['Wombat burrows are hotspots for small vertebrates in a landscape subject to gigafire'](https://doi.org/10.1093/jmammal/gyae034) *Journal of Mammalogy*
 
@@ -24,7 +26,7 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2023**
 
-26\. Gould, E., et al. (incl. **Geary, W.L.**). 2023. ['Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology'](https://ecoevorxiv.org/repository/view/6000/). *EcoEvoRxiv*
+26\. Gould, E., et al. (incl. **Geary, W.L.**). 2023. ['Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology'](https://ecoevorxiv.org/repository/view/6000/). *EcoEvoRxiv* [Pre-print]
 
 25\. Yong, C., Ward, M., Watson, J. E. M., Reside, A. E., van Leeuwen, S., Legge, S., **Geary, W. L.**, Lintermans, M., Kennard, M. J., Stuart, S., & Carwardine, J. 2023. ['The costs of managing key threats to Australia's biodiversity'](https://doi.org/10.1111/1365-2664.14377). *Journal of Applied Ecology*
 

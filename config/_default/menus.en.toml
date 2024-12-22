@@ -10,11 +10,11 @@
   identifier = "research"
   url = "/research/"
   
-  [[main]]
-  name = "Opportunities"
-  weight = 300
-  identifier = "opportunities"
-  url = "/opportunities/"
+#  [[main]]
+#  name = "Opportunities"
+#  weight = 300
+#  identifier = "opportunities"
+#  url = "/opportunities/"
   
   [[main]]
   name = "Media" 
