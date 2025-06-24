@@ -19,7 +19,15 @@ Key papers:
 
 ![image-medium](/images/191019_NORTHERNTERRITORY.jpg)
 
-#### **2. Development and application of quantitative decision-support approaches and tools**
+#### **2. Quantifying the biodiversity impacts of financial activities**
+One of the greatest drivers of pressures on biodiversity is global economic activity. We're interested in better understanding the scale, location and intensity of these impacts to inform nature-friendly business practices and investment activities.
+
+-   Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
+
+-   Balogh, A., Bekessy, S., Burgman, M., **Geary, W.**, Karakaş, O., Layman, H., Tonetto, A. and Wintle, B., 2025. Flora, Fauna, and Finance: Assessing Biodiversity Risk in Investment Portfolios. *SSRN Preprint*
+
+
+#### **3. Development and application of quantitative decision-support approaches and tools**
 
 Stemming from my experience working in Government, we also focus on the development and application of quantitative decision-support tools. We do this by bringing together spatial conservation planning tools, expert elicitation and decision-science to help managers make sense of complex ecological decisions.
 

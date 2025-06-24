@@ -10,11 +10,19 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 [**Send me an email**](mailto:billy.geary@unimelb.edu.au) for pdfs of any of my papers.
 
 
+#### **2025**
+
+35\. Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
+
+34\. Balogh, A., Bekessy, S., Burgman, M., **Geary, W.**, Karakaş, O., Layman, H., Tonetto, A. and Wintle, B., 2025. Flora, Fauna, and Finance: Assessing Biodiversity Risk in Investment Portfolios. *SSRN Preprint*
+
+33\. Linley, G. D., Jolly, C. J., Doherty, T. S., **Geary, W. L.**, Armenteras, D., Belcher, C. M., Bliege Bird, R., Duane, A., Fletcher, M.-S., Giorgis, M. A., Haslem, A., Jones, G. M., Kelly, L. T., Lee, C. K. F., Nolan, R. H., Parr, C. L., Pausas, J. G., Price, J. N., Regos, A., ... Nimmo, D. G. 2022. ['‘Megafire’—you may not like it, but you cannot avoid it'](https://doi.org/10.1111/geb.70032). *Global Ecology and Biogeography*
+
 #### **2024**
 
 32\. **Geary, W.L.**, Nimmo, D.G., Doherty, T.S., Tulloch, A.I.T., Murray, A., Bluff, L., Perri, M. & Ritchie, E.G. 2024. ['Forecasting patterns of shifting biodiversity refugesin an increasingly flammable world.'](https://ecoevorxiv.org/repository/view/8271/) *EcoEvoRxiv* [Pre-print]
 
-31\. Bruce, T. et al. (incl. **Geary, W.L.**). (In Press). 'Large-scale and long-term wildlife monitoring using camera traps: a continental synthesis.' *Biological Reviews*
+31\. Bruce, T. et al. (incl. **Geary, W.L.**). 2024. 'Large-scale and long-term wildlife monitoring using camera traps: a continental synthesis.' *Biological Reviews*
 
 30\. Linley, G., Jolly, C., Wooster, E., Spencer, E., Cowan, M., **Geary, W.**, de Laive, A., Michael, D., Ritchie, E. & Nimmo, D. 2024. ['Widespread resilience of animal species, functional diversity, and predator-prey networks to an unprecedented gigafire.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14815) *Journal of Applied Ecology*
 
