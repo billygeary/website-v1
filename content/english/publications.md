@@ -12,6 +12,8 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2025**
 
+36\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. 'Optimising fire and predator management for conservation.' *Journal of Applied Ecology*
+
 35\. Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
 
 34\. Balogh, A., Bekessy, S., Burgman, M., **Geary, W.**, Karakaş, O., Layman, H., Tonetto, A. and Wintle, B., 2025. Flora, Fauna, and Finance: Assessing Biodiversity Risk in Investment Portfolios. *SSRN Preprint*
