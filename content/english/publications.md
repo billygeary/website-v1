@@ -9,10 +9,11 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 [**Send me an email**](mailto:billy.geary@unimelb.edu.au) for pdfs of any of my papers.
 
+#### **2026**
+
+36\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. ['Optimising fire and predator management for conservation.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70256) *Journal of Applied Ecology*
 
 #### **2025**
-
-36\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. 'Optimising fire and predator management for conservation.' *Journal of Applied Ecology*
 
 35\. Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
 
