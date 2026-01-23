@@ -19,8 +19,8 @@ Key papers:
 
 ![image-medium](/images/191019_NORTHERNTERRITORY.jpg)
 
-#### **2. Quantifying the biodiversity impacts of financial activities**
-One of the greatest drivers of pressures on biodiversity is global economic activity. We're interested in better understanding the scale, location and intensity of these impacts to inform nature-friendly business practices and investment activities.
+#### **2. Quantifying the biodiversity impacts of business activities**
+One of the greatest drivers of pressures on biodiversity is global economic activity. We're interested in using robust ecological models to better understand the scale, location and intensity of these impacts to inform nature-related disclosures, nature-friendly business practices and investment activities.
 
 -   Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
 
@@ -32,6 +32,8 @@ One of the greatest drivers of pressures on biodiversity is global economic acti
 Stemming from my experience working in Government, we also focus on the development and application of quantitative decision-support tools. We do this by bringing together spatial conservation planning tools, expert elicitation and decision-science to help managers make sense of complex ecological decisions.
 
 Key papers:
+
+-   **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. ['Optimising fire and predator management for conservation.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70256) *Journal of Applied Ecology*
 
 -   **Geary, W.L.**, Bode, M., Doherty, T.S., Fulton, E.A., Nimmo, D.G., Tulloch, A.I.T, Tulloch, V.J.D. & Ritchie, E.G. 2020 ['A guide to ecosystem models and their environmental applications.'](https://www.nature.com/articles/s41559-020-01298-8) *Nature Ecology & Evolution*
 

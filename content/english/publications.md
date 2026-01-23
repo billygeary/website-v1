@@ -11,13 +11,17 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2026**
 
-36\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. ['Optimising fire and predator management for conservation.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70256) *Journal of Applied Ecology*
+38\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. ['Optimising fire and predator management for conservation.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70256) *Journal of Applied Ecology*
 
 #### **2025**
 
-35\. Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
+37\. Nimmo, D.G., **Geary, W.**, Moore, H.A., Wooster, E.I., Jolly, C.J., Linley, G.D., McAuley, C., Nichols, H., Simpson, A., Sonter, L.J., Westaway, D., Tayer, T.C., Wilson, B.C.W. and Cowan, M.A. 2025. The Underestimated Global Impact of Mining on Threatened Species. *SSRN* [Pre-print]
 
-34\. Balogh, A., Bekessy, S., Burgman, M., **Geary, W.**, Karakaş, O., Layman, H., Tonetto, A. and Wintle, B., 2025. Flora, Fauna, and Finance: Assessing Biodiversity Risk in Investment Portfolios. *SSRN Preprint*
+36\. Cascio, A.L., Martion, E., Ramsay, D., Mason, R., Pestell, A., **Geary, W.L.**, Sowersby, W. and Ritchie, E.G., 2025. Landscape drivers of population density of a vulnerable apex predator (Wilkerr/dingo). *EcoEvoRxiv* [Pre-print]
+
+35\. Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN* [Pre-print]
+
+34\. Balogh, A., Bekessy, S., Burgman, M., **Geary, W.**, Karakaş, O., Layman, H., Tonetto, A. and Wintle, B., 2025. Flora, Fauna, and Finance: Assessing Biodiversity Risk in Investment Portfolios. *SSRN* [Pre-print]
 
 33\. Linley, G. D., Jolly, C. J., Doherty, T. S., **Geary, W. L.**, Armenteras, D., Belcher, C. M., Bliege Bird, R., Duane, A., Fletcher, M.-S., Giorgis, M. A., Haslem, A., Jones, G. M., Kelly, L. T., Lee, C. K. F., Nolan, R. H., Parr, C. L., Pausas, J. G., Price, J. N., Regos, A., ... Nimmo, D. G. 2022. ['‘Megafire’—you may not like it, but you cannot avoid it'](https://doi.org/10.1111/geb.70032). *Global Ecology and Biogeography*
 
