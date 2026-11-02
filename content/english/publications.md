@@ -11,11 +11,13 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2026**
 
-38\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. ['Optimising fire and predator management for conservation.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70256) *Journal of Applied Ecology*
+39\. Marshall, E., McColl-Gausden, S., Bentley, P., **Geary, W.L.**, Kultaev, D., Ababei, D., Collins, L., Bennett, L. & Penman, T. 2026. 'Implications of changing fire risk for conservation management.' *Ecological Applications* 
+
+38\. Nimmo, D.G., **Geary, W.**, Moore, H.A., Wooster, E.I., Jolly, C.J., Linley, G.D., McAuley, C., Nichols, H., Simpson, A., Sonter, L.J., Westaway, D., Tayer, T.C, Wilson, B.C. and Cowan, M.A. 2026. The Underestimated Global Impact of Mining on Threatened Species. *Cell Sustainability*
+
+37\. **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2026. 'Optimising fire and predator management for conservation.' *Journal of Applied Ecology*
 
 #### **2025**
-
-37\. Nimmo, D.G., **Geary, W.**, Moore, H.A., Wooster, E.I., Jolly, C.J., Linley, G.D., McAuley, C., Nichols, H., Simpson, A., Sonter, L.J., Westaway, D., Tayer, T.C., Wilson, B.C.W. and Cowan, M.A. 2025. The Underestimated Global Impact of Mining on Threatened Species. **SSRN* [Pre-print] *Cell Sustainability*
 
 36\. Cascio, A.L., Martion, E., Ramsay, D., Mason, R., Pestell, A., **Geary, W.L.**, Sowersby, W. and Ritchie, E.G., 2025. Landscape drivers of population density of a vulnerable apex predator (Wilkerr/dingo). *EcoEvoRxiv* [Pre-print]
 
