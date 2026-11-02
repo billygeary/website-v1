@@ -17,7 +17,7 @@ Key papers:
 -   Geary et al. (2023). Identifying historical and future global change drivers that place species recovery at risk. *Global Change Biology*
 -   Geary et al. (2019). Threat Webs: re-framing the co-occurrence and interactions of threats to biodiversity. *Journal of Applied Ecology*
 
-1.  Quantifying the impacts of business activity on biodiversity
+2\. Quantifying the impacts of business activity on biodiversity
 
 Economic activity is one of the largest drivers of pressure on biodiversity, and it is a pressure that can be measured, attributed and changed. We use species distribution models to estimate the scale, location and intensity of business impacts on nature, informing nature-related disclosure, business practice and investment decisions.
 
@@ -27,7 +27,7 @@ Key papers:
 -   Hickman et al. (2025). Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
 -   Nimmo et al. (2025). The Underestimated Global Impact of Mining on Threatened Species. *Cell Sustainability*
 
-1.  Decision-support tools for managing cumulative pressures
+3\. Decision-support tools for managing cumulative pressures
 
 Drawing on my experience in government, I develop quantitative tools that turn this science into management decisions. We combine spatial conservation planning, expert elicitation, ecosystem modelling and decision science to help managers and decision-makers choose between actions under complex, competing pressures.
 
