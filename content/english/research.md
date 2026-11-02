@@ -5,38 +5,36 @@ description: Projects page
 title: Projects
 ---
 
-I have a broad range of research interests, broadly focused on using applied and quantitative approaches for better managing and conserving biodiversity in a time of global change. This has spanned topics including fire ecology, spatial conservation planning and prioritisation, ecological forecasting, invasive species management and ecosystem modelling. While I am always open to new avenues of research, my current research brings together two related threads:
+My research quantifies, explains and predicts how cumulative pressures drive biodiversity loss, and develops the tools to manage them. I work on pressures ranging from fire and predation to land use change and business activity, using ecological modelling to turn that understanding into evidence for conservation managers, businesses and regulators.
 
-#### **1. Impacts and management of compounding threats and disturbances**
+1.  Understanding compounding threats and disturbances
 
-Biodiversity is under increasing pressure from a diverse range of threats and pressures which will only worsen under climate change. Our research is motivated by identifying how species and ecological communities are shaped by interacting threats, disturbances (e.g. fire, drought) and ecological processes (e.g. predation, herbivory), and how this knowledge can be used to improve conservation outcomes for species and ecosystems. We have projects at the local-sale (e.g. in south-west and south-eastern Australia) and the continental-scale exploring this topic.
-
-Key papers:
-
--   **Geary, W. L.**, Tulloch, A. I. T., Ritchie, E. G., Doherty, T. S., Nimmo, D. G., Maxwell, M. A., & Wayne, A. F. (2023). ['Identifying historical and future global change drivers that place species recovery at risk'](https://doi.org/10.1111/gcb.16661). *Global Change Biology*
-
--   **Geary, W.L.**, Nimmo, D.G., Doherty, T.S., Ritchie, E.G. & Tulloch, A.I.T. 2019 ['Threat Webs: re-framing the co-occurrence and interactions of threats to biodiversity.'](https://doi.org/10.1111/1365-2664.13427) *Journal of Applied Ecology*
-
-![image-medium](/images/191019_NORTHERNTERRITORY.jpg)
-
-#### **2. Quantifying the biodiversity impacts of business activities**
-One of the greatest drivers of pressures on biodiversity is global economic activity. We're interested in using robust ecological models to better understand the scale, location and intensity of these impacts to inform nature-related disclosures, nature-friendly business practices and investment activities.
-
--   Hickman, S., Cantele, M., Balogh, A., Dyndo, M., Willetts, J., Morgain, R., **Geary, W.** and Wintle, B., 2025. Making money talk nicely: Biodiversity impact assessment for investors. *SSRN Preprint*
-
--   Balogh, A., Bekessy, S., Burgman, M., **Geary, W.**, Karakaş, O., Layman, H., Tonetto, A. and Wintle, B., 2025. Flora, Fauna, and Finance: Assessing Biodiversity Risk in Investment Portfolios. *SSRN Preprint*
-
-
-#### **3. Development and application of quantitative decision-support approaches and tools**
-
-Stemming from my experience working in Government, we also focus on the development and application of quantitative decision-support tools. We do this by bringing together spatial conservation planning tools, expert elicitation and decision-science to help managers make sense of complex ecological decisions.
+Biodiversity is under growing pressure from many threats at once, and climate change will intensify the interactions between them. We study how interacting threats (e.g. invasive predators), disturbances (e.g. fire, drought) and ecological processes (e.g. predation, herbivory) shape species and communities, and how that knowledge can improve conservation outcomes. Projects range from local landscapes in south-west and south-eastern Australia to continental scales.
 
 Key papers:
 
--   **Geary, W.L.**, Tulloch, A.I.T, Doherty, T.S., Nimmo, D.G., Ritchie, E.G., Hanson, J.O., Maxwell, M.A. & Wayne, A.F. 2025. ['Optimising fire and predator management for conservation.'](https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.70256) *Journal of Applied Ecology*
+-   Geary et al. (2026). Optimising fire and predator management for conservation. Journal of Applied Ecology
+-   Geary et al. (2023). Identifying historical and future global change drivers that place species recovery at risk. Global Change Biology
+-   Geary et al. (2019). Threat Webs: re-framing the co-occurrence and interactions of threats to biodiversity. Journal of Applied Ecology
 
--   **Geary, W.L.**, Bode, M., Doherty, T.S., Fulton, E.A., Nimmo, D.G., Tulloch, A.I.T, Tulloch, V.J.D. & Ritchie, E.G. 2020 ['A guide to ecosystem models and their environmental applications.'](https://www.nature.com/articles/s41559-020-01298-8) *Nature Ecology & Evolution*
+2.  Quantifying the impacts of business activity on biodiversity
 
--   **Geary, W.L.**, Buchan, A., Allen, T., Attard, D., Bruce, M.J., Collins, L., Ecker, T.E., Fairman, T.A., Hollings, T., Loeffler, E., Muscatello, A., Parkes, D., Thomson, J., White, M. & Kelly, E. 2021 ['Responding to the biodiversity impacts of a megafire: a case study from south-eastern Australia's Black Summer.'](https://onlinelibrary.wiley.com/doi/10.1111/ddi.13292) *Diversity & Distributions*
+Economic activity is one of the largest drivers of pressure on biodiversity, and it is a pressure that can be measured, attributed and changed. We use species distribution models to estimate the scale, location and intensity of business impacts on nature, informing nature-related disclosure, business practice and investment decisions.
+
+Key papers:
+
+- Geary et al. (2026). Measuring biodiversity impact, change and restoration opportunity for business. EcoEvoRXiv
+- Hickman et al. (2025). Making money talk nicely: Biodiversity impact assessment for investors. SSRN Preprint 
+- Nimmo et al. (2025). The Underestimated Global Impact of Mining on Threatened Species. Cell Sustainability
+
+3.  Decision-support tools for managing cumulative pressures
+
+Drawing on my experience in government, I develop quantitative tools that turn this science into management decisions. We combine spatial conservation planning, expert elicitation, ecosystem modelling and decision science to help managers and decision-makers choose between actions under complex, competing pressures.
+
+Key papers:
+
+-   Geary et al. (2025). Optimising fire and predator management for conservation. Journal of Applied Ecology
+-   Geary et al. (2020). A guide to ecosystem models and their environmental applications. Nature Ecology & Evolution
+-   Geary et al. (2021). Responding to the biodiversity impacts of a megafire. Diversity & Distributions
 
 ![image](/images/megafire-actions.jpeg)

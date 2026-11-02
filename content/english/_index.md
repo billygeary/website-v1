@@ -3,12 +3,12 @@ author: Billy Geary
 title: Home
 ---
 
-I am an applied, quantitative ecologist interested in a range of topics, focused on using data-driven approaches to better understand how to manage biodiversity in a time of global change.
+I am an applied, quantitative ecologist studying how cumulative pressures, from fire and invasive predators to land use change and business activity, drive biodiversity loss, and developing the data-driven tools needed to predict and manage them in a time of global change.
 
-I am a Lecturer in Quantitative Ecology & Biodiversity Conservation at The University of Melbourne, based in the [School of Agriculture, Food and Ecosystem Sciences](http://safes.unimelb.edu.au) and the [Quantitative and Applied Ecology Group](http://qaeco.com). Currently, I coordinate 3rd year Applied Ecology and co-coordinate the Masters subject Global Environmental Change. I am also associated with the [Melbourne Biodiversity Institute](https://biodiversity.unimelb.edu.au). 
+I am a Lecturer in Quantitative Ecology & Biodiversity Conservation at The University of Melbourne, based in the [School of Agriculture, Food and Ecosystem Sciences](http://safes.unimelb.edu.au) and the [Quantitative and Applied Ecology Group](http://qaeco.com), and I am associated with the [Melbourne Biodiversity Institute](https://biodiversity.unimelb.edu.au). I coordinate 3rd year Applied Ecology and co-coordinate the Masters subject Global Environmental Change.
 
-Before joining UniMelb, I graduated with my PhD from Deakin University in October 2023, and worked for almost a decade in ecological policy and research for the Victorian Government.
+Before joining UniMelb, I completed my PhD at Deakin University (2023) and spent almost a decade in ecological policy and research with the Victorian Government, which shapes my focus on research that decision-makers can actually use.
 
-I'm really excited to develop new collaborations and student projects, so please get in touch if you are interested!
+I'm keen to develop new collaborations and student projects, particularly on cumulative impacts, species distribution modelling, and nature-related disclosure, so please get in touch if you're interested!
 
 ![image](/images/170414_CATHEDRALRANGES.jpg)

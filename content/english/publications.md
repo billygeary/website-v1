@@ -15,7 +15,7 @@ For my full list of publications, please see my [**Google Scholar page**](https:
 
 #### **2025**
 
-37\. Nimmo, D.G., **Geary, W.**, Moore, H.A., Wooster, E.I., Jolly, C.J., Linley, G.D., McAuley, C., Nichols, H., Simpson, A., Sonter, L.J., Westaway, D., Tayer, T.C., Wilson, B.C.W. and Cowan, M.A. 2025. The Underestimated Global Impact of Mining on Threatened Species. *SSRN* [Pre-print]
+37\. Nimmo, D.G., **Geary, W.**, Moore, H.A., Wooster, E.I., Jolly, C.J., Linley, G.D., McAuley, C., Nichols, H., Simpson, A., Sonter, L.J., Westaway, D., Tayer, T.C., Wilson, B.C.W. and Cowan, M.A. 2025. The Underestimated Global Impact of Mining on Threatened Species. **SSRN* [Pre-print] *Cell Sustainability*
 
 36\. Cascio, A.L., Martion, E., Ramsay, D., Mason, R., Pestell, A., **Geary, W.L.**, Sowersby, W. and Ritchie, E.G., 2025. Landscape drivers of population density of a vulnerable apex predator (Wilkerr/dingo). *EcoEvoRxiv* [Pre-print]
 
